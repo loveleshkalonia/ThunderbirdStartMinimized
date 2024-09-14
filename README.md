@@ -18,3 +18,9 @@ I also assume that under the Thunderbird <em><strong>Settings -> General</strong
 <strong>Base File:</strong> v2.0.2 U32 AutoHotKey32.exe<br />
 <strong>Compress exe with:</strong> (none)<br />
 <strong>Embedded Resource ID:</strong> (default)<br />
+
+___
+
+### Supporting links:
+
+[Blog Article](https://www.loveleshkalonia.com/2023/03/start-thunderbird-minimized-to-tray-in-windows.html)
